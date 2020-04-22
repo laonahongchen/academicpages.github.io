@@ -1,7 +1,6 @@
 ---
 title: "Bi-level Actor-Critic for Multi-agent Coordination"
 collection: publications
-permalink: /publication/bilevel
 excerpt: 'We proposed a novel bi-level actor-critic learning method for multi-agent reinforcement learning that allows agents to have different knowledge base, while their actions still can be executed simultaneously and distributedly.'
 date: 2020-02-08
 venue: 'AAAI2020'
