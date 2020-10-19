@@ -4,6 +4,7 @@ collection: publications
 excerpt: 'We introduced a new player – a strategic informant, who can observe and report upcoming attacks – to the defender-attacker security game setting.'
 date: 2020-07-10
 venue: 'IJCAI-PRICAI 2020'
+paperurl: 'https://www.ijcai.org/Proceedings/2020/52'
 ---
 Paper accepted by IJCAI-PRICAI 2020.
 
