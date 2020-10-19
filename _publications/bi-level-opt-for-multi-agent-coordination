@@ -1,11 +1,11 @@
 ---
 title: "Bi-level Actor-Critic for Multi-agent Coordination"
 collection: publications
-excerpt: 'We proposed a novel bi-level actor-critic learning method for multi-agent reinforcement learning that allows agents to have different knowledge base, while their actions still can be executed simultaneously and distributedly.'
+excerpt: 'We proposed a novel bi-level actor-critic learning method for multi-agent reinforcement learning that allows agents to have different knowledge base, while their actions still can be executed simultaneously and distributedly, and result in Stackelberg equilibrium as the solution.'
 date: 2020-02-08
 venue: 'AAAI2020'
 paperurl: 'https://arxiv.org/pdf/1909.03510.pdf'
 ---
-Paper accepted by [AAAI2020](https://aaai.org/Conferences/AAAI-20/)
+Paper accepted by [AAAI2020](https://aaai.org/Conferences/AAAI-20/).
 
-[Download paper here](https://arxiv.org/pdf/1909.03510.pdf)
+You may download the full paper [here](https://arxiv.org/pdf/1909.03510.pdf).
