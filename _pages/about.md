@@ -16,6 +16,8 @@ My current research interest includes machine learning, application machine lear
 
 Selected Publications
 ======
+**Weizhe Chen**, Weinan Zhang, Duo Liu, Weiping Liu, Xiaojun Shi, Fei Fang. Data-Driven Multimodal Patrol Planning for Anti-poaching. To appear in IAAI-21.
+
 Haifeng  Zhang,  **Weizhe  Chen**, Zeren  Huang,  Minne  Li,  Yaodong  Yang, Weinan  Zhang,  and  Jun  Wang.   Bi-level  actor-critic  for  multi-agent  coordination.  In **AAAI**, volume 34, pages 7325–7332, 2020.
 
 Weiran Shen, **Weizhe Chen**, Taoan Huang, Rohit Singh, and Fei Fang. Whento  follow  the  tip:  Security  games  with  strategic  informants.   In  Proceedings  of  the  Twenty-Ninth  International  Joint  Conference  on  Artificial  Intelligence,  **IJCAI-20**,  pages  371–377.  International Joint Conferences on Artificial Intelligence Organization, 7 2020. Main track.
