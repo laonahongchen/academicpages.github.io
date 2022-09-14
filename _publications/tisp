@@ -1,0 +1,9 @@
+---
+title: "Temporal Induced Self-Play for Stochastic Bayesian Games"
+collection: publications
+excerpt: 'We proposed a temporal induced based self-play algorithm for stochastic Bayesian games. We showed that with our algorithm, we can efficiently converge close to sequential perfect bayesian equilibrium, which make the learned policy robust.'
+date: 2021-07-23
+venue: 'IJCAI2021'
+paperurl: 'https://www.ijcai.org/proceedings/2021/0014.pdf'
+---
+You may download the full paper [here](https://www.ijcai.org/proceedings/2021/0014.pdf).
