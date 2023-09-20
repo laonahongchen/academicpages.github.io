@@ -8,18 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a senior year undergraduate student in [ACM honored class@Shanghai Jiao Tong University](https://acm.sjtu.edu.cn).
+Weizhe is a third-year Ph.D. student in the computer science department at the University of Southern California (USC), advised by Prof. Sven Koenig and Prof. Bistra Dilkina. His research lies in the intersection of machine learning and optimization, more specifically, machine learning for multi-agent path finding and using optimization techniques in multi-agent reinforcement learning, together with their application in computational sustainability. Before USC, he got his bachelor's from ACM honor class at Shanghai Jiao Tong University.
 
-Research Interest
-======
-My current research interest includes machine learning, application machine learning, reinforcement learning, multi-agent reinforcement learning, AI for social good, and computational game theory.
-
-Selected Publications
-======
-**Weizhe Chen**, Weinan Zhang, Duo Liu, Weiping Liu, Xiaojun Shi, Fei Fang. Data-Driven Multimodal Patrol Planning for Anti-poaching. To appear in IAAI-21.
-
-Haifeng  Zhang,  **Weizhe  Chen**, Zeren  Huang,  Minne  Li,  Yaodong  Yang, Weinan  Zhang,  and  Jun  Wang.   Bi-level  actor-critic  for  multi-agent  coordination.  In **AAAI**, volume 34, pages 7325–7332, 2020.
-
-Weiran Shen, **Weizhe Chen**, Taoan Huang, Rohit Singh, and Fei Fang. Whento  follow  the  tip:  Security  games  with  strategic  informants.   In  Proceedings  of  the  Twenty-Ninth  International  Joint  Conference  on  Artificial  Intelligence,  **IJCAI-20**,  pages  371–377.  International Joint Conferences on Artificial Intelligence Organization, 7 2020. Main track.
-
-You may see the details of my publications from [here](https://laonahongchen.github.io/publications/).
+The full list of publications can be found [here](https://laonahongchen.github.io/publications/), and also on [Google Scholar](https://scholar.google.com/citations?user=xwMxn74AAAAJ).
